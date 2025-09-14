@@ -67,3 +67,14 @@ export default tseslint.config([
   },
 ])
 ```
+Notes:
+
+How to Login
+To login, you only need to enter a username (no password required).
+Predefined users are located in:
+src/data/users.ts
+Available users:
+Ali
+Sara
+Maya
+Sam
